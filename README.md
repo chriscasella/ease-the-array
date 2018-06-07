@@ -8,7 +8,7 @@ Examples:
     Output : 4 4 8 0 0 0
     
     Input : arr[] = {0, 2, 2, 2, 0, 6, 6, 0, 0, 8}
-    Output :  4 2 12 8 0 0 0 0 0 0```
+    Output :  4 2 12 8 0 0 0 0 0 0
 </code>
 
 I answered this question with a vanilla javascript ES6 approach.
